@@ -16,4 +16,6 @@ you can modify for mac or linux support
 ![](https://od.lk/s/MjNfNTE0MTI4NDZf/kickass_sc1.JPG)
 ![](https://od.lk/s/MjNfNTE0MTI4NDFf/kickass_sc2.JPG)
 
-https://www.youtube.com/watch?v=2R01_ZrCdP4
+[![Watch the video](https://img.youtube.com/vi/2R01_ZrCdP4/maxresdefault.jpg)](https://youtu.be/2R01_ZrCdP4)
+
+
